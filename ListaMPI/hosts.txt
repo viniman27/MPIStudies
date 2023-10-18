@@ -1,0 +1,3 @@
+host1name slots=2
+host2name slots=2
+host3name slots=1
